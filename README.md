@@ -1,130 +1,71 @@
-# 👋 Hey, I'm Swathika
+<div align="center">
 
-### DevOps & Platform Engineering | CI/CD | Automation | Cloud
+# 🚀 My DevOps & Cloud Journey
 
-**14+ Years Enterprise Engineering Experience**
+### Learn • Build • Automate • Deploy
 
----
+A hands-on repository documenting my journey into modern DevOps and Cloud technologies through projects, notes, experiments, and practical implementations.
 
-## 👩‍💻 About Me
-
-I’m a **DevOps & Platform Engineering professional** with 14+ years of experience in enterprise software delivery, SCM, automation, build & release engineering, and platform operations.
-
-My background includes:
-
-- Enterprise SCM & Source Control
-- ClearCase & Git
-- Build & Release Engineering
-- CI/CD Automation
-- Python Automation
-- Platform Operations
-
-Currently, I'm building hands-on expertise in **modern DevOps and Cloud technologies** through real-world projects.
+</div>
 
 ---
 
-## 🚀 What I'm Building
+## 🛠️ Technologies & Tools
 
-### 🔄 CI/CD
-**Jenkins + Docker + Git**
+<div align="center">
 
-### ☁️ Cloud
-**AWS + Terraform**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🐳 Containers
-**Docker + Docker Compose**
-
-### ☸️ Kubernetes
-**Deployments + Services + Scaling**
-
-### 📊 Observability
-**Prometheus + Grafana**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Projects
 
-**Source Control**
-  
-Git • GitHub • ClearCase
-
-**CI/CD**
-
-Jenkins • GitHub Actions
-
-**Containers**
-
-Docker • Docker Compose
-
-**Cloud**
-
-AWS
-
-**Infrastructure as Code**
-
-Terraform
-
-**Orchestration**
-
-Kubernetes
-
-**Automation**
-
-Python • Bash
-
-**Observability**
-
-Prometheus • Grafana
+| # | Project | Technologies | Status |
+|---|---|---|---|
+| 01 | [CI/CD Two-Tier Web Application](./Project-1-CICD) | Jenkins • Docker • Git | 🚧 In Progress |
+| 02 | [Docker Multi-Container Application](./Project-2-Docker) | Docker • Compose • Networking | 🔜 Upcoming |
+| 03 | [AWS Infrastructure with Terraform](./Project-3-AWS-Terraform) | AWS • Terraform | 🔜 Upcoming |
+| 04 | [Kubernetes Application Deployment](./Project-4-Kubernetes) | Docker • Kubernetes | 🔜 Upcoming |
 
 ---
 
-## 🚀 Featured Projects
+## 📚 Knowledge Base
 
-### 01 | CI/CD Two-Tier Web Application
-
-**Jenkins → Docker → Testing → Deployment**
-
-A production-style CI/CD project demonstrating automated build, testing, containerization, and deployment.
-
----
-
-### 02 | Docker Multi-Container Application
-
-**Docker Compose → Networking → Volumes**
-
-Multi-container application demonstrating Docker networking, persistent storage, environment variables, and service dependencies.
+| Topic | What You'll Find |
+|---|---|
+| 🐙 [Git & GitHub](./Git) | Commands, workflows, branching, merging and best practices |
+| 🐳 [Docker](./Docker) | Images, containers, networking, volumes and Docker Compose |
+| 🔄 [Jenkins](./Jenkins) | CI/CD pipelines, automation and practical examples |
+| ☁️ [AWS](./AWS) | Cloud concepts, services and hands-on implementations |
+| 🏗️ [Terraform](./Terraform) | Infrastructure as Code and AWS provisioning |
+| ☸️ [Kubernetes](./Kubernetes) | Deployments, Services, ConfigMaps, Secrets and scaling |
+| 🐧 [Linux](./Linux) | Commands, administration and troubleshooting |
+| 🐍 [Python](./Python) | Automation scripts and practical examples |
 
 ---
 
-### 03 | AWS Infrastructure with Terraform
+## 🎯 Learning Approach
 
-**Terraform → AWS → Infrastructure as Code**
-
-Provisioning and managing cloud infrastructure using Terraform.
-
----
-
-### 04 | Kubernetes Application Deployment
-
-**Docker → Kubernetes → Services → Scaling**
-
-Deploying containerized applications on Kubernetes with configuration, networking, health checks, and scaling.
-
----
-
-## 📚 DevOps Knowledge Base
-
-My repositories also contain practical notes, commands, examples, and troubleshooting guides covering:
+I believe in learning DevOps by **building real things**, not just following tutorials.
 
 ```text
-Git
-Docker
-Docker Compose
-Jenkins
-CI/CD
-AWS
-Terraform
-Kubernetes
-Python
-Bash
-Observability
+Learn
+  ↓
+Build
+  ↓
+Break
+  ↓
+Troubleshoot
+  ↓
+Automate
+  ↓
+Improve
