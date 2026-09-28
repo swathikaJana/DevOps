@@ -31,7 +31,7 @@ A hands-on repository documenting my journey into modern DevOps and Cloud techno
 
 | # | Project | Technologies | Status |
 |---|---|---|---|
-| 01 | [CI/CD Two-Tier Web Application](./Project-1-CICD) | Jenkins • Docker • Git | 🚧 In Progress |
+| 01 | [CICD Two-Tier WebApp](https://github.com/swathikaJana/CICD-Two-Tier-WebApp)) | Jenkins • Docker • Git | 🚧 In Progress |
 | 02 | [Docker Multi-Container Application](./Project-2-Docker) | Docker • Compose • Networking | 🔜 Upcoming |
 | 03 | [AWS Infrastructure with Terraform](./Project-3-AWS-Terraform) | AWS • Terraform | 🔜 Upcoming |
 | 04 | [Kubernetes Application Deployment](./Project-4-Kubernetes) | Docker • Kubernetes | 🔜 Upcoming |
